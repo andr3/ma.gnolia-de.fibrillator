@@ -1,0 +1,32 @@
+* {
+    font-family: "helvetica neue", "arial", sans-serif;
+    font-weight: 100; 
+}
+strong {
+    font-weight: 400;
+}
+
+#content {
+background-color: #eee;
+padding: 1em;
+height: 400px;
+overflow: auto;
+}
+
+.hentry {
+    border-bottom: 5px solid #666;
+}
+form {
+margin-bottom: 2em;
+padding: 1em;
+}
+.footer {
+    text-align: right;
+}
+h2 {
+    font-size: 1.2em;
+    font-weight: 200;
+}
+hr {
+  height: 0;color: white;border: 0;border-bottom: 1px solid #ccc;
+}
